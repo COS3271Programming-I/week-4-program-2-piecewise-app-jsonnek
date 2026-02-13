@@ -1,0 +1,5 @@
+/Users/jonathansonnek/Library/Java/JavaVirtualMachines/openjdk-25.0.1/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=52884 -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/jonathansonnek/Documents/GitHub/week-4-program-2-piecewise-app-jsonnek/out/production/Piecewise APP Main
+Enter a number: 12
+The solution is 864.0
+
+Process finished with exit code 0
